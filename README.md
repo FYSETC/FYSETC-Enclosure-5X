@@ -12,7 +12,7 @@
 
 4. Shop
    -  [Aliexpress]().
-   -  [Amazon]().
+   -  [Amazon](https://www.amazon.com/dp/B0GFC3WPNL).  https://www.amazon.com/dp/B0GFC3WPNL
 
 5. Tech Support
 
